@@ -1,0 +1,12 @@
+[package]
+name = "conway_game_of_life"
+version = "0.1.0"
+edition = "2021"
+
+[profile.dev]
+opt-level = 3
+debug = false
+
+[dependencies]
+gif = "0.13.1"
+minifb = "0.26.0"

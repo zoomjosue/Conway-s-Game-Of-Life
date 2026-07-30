@@ -1,0 +1,8 @@
+build/
+target/
+.reference-render-loop/
+*.user
+*.obj
+*.exe
+*.pdb
+*.ilk
